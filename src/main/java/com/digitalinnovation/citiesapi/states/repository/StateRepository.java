@@ -1,6 +1,6 @@
-package com.digitalinnovation.citiesapi.staties.repository;
+package com.digitalinnovation.citiesapi.states.repository;
 
-import com.digitalinnovation.citiesapi.staties.entity.State;
+import com.digitalinnovation.citiesapi.states.entity.State;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface StateRepository extends JpaRepository<State, Long> {

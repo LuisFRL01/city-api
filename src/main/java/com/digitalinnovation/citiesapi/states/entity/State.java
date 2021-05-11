@@ -1,4 +1,4 @@
-package com.digitalinnovation.citiesapi.staties.entity;
+package com.digitalinnovation.citiesapi.states.entity;
 
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import lombok.Data;
